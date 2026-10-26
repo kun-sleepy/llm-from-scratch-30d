@@ -17,3 +17,6 @@ __pycache__/
 # 忽略系统文件
 .DS_Store
 Thumbs.db
+
+# 忽略整个数据目录
+/data/
